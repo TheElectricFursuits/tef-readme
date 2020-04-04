@@ -10,6 +10,8 @@ To submit a repository to this organisation, please ensure that the project fits
 
 - Has a clear README.md defining the purpose and use case of your code
 
+- Only uses the prefix `tef-` if it's an actively supported community repository
+
 ### And if you can...
 
 - Have a master & dev branch
